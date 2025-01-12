@@ -79,7 +79,7 @@ export const Entry = () => {
         </button>
       </div>
 
-      <div className='pl-28 lg:ml-11'>
+      <div className='pl-28 mt-1 lg:ml-11'>
         <h1>Saved Data:</h1>
         <ul>
           {data.map((input, index) => (
